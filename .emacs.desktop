@@ -1,0 +1,451 @@
+;; -*- mode: emacs-lisp; coding: emacs-mule; -*-
+;; --------------------------------------------------------------------------
+;; Desktop File for Emacs
+;; --------------------------------------------------------------------------
+;; Created Wed Dec 19 11:55:15 2018
+;; Desktop file format version 208
+;; Emacs version 25.3.1
+
+;; Global section:
+(setq desktop-saved-frameset [frameset 1 (23577 49443 776499 800000) (desktop . "208") "Administrator@WC-NEW" nil nil ((((font-backend uniscribe gdi) (font . "-outline-‘Î¢‘Èí‘ÑÅ‘ºÚ-normal-normal-normal-sans-23-*-*-*-p-*-iso8859-1") (border-width . 2) (internal-border-width . 0) (right-divider-width . 0) (bottom-divider-width . 0) (vertical-scroll-bars) (horizontal-scroll-bars) (foreground-color . "#F8F8F2") (background-color . "#272822") (mouse-color . "#F8F8F2") (border-color . "black") (screen-gamma) (line-spacing) (left-fringe . 8) (right-fringe . 8) (alpha) (menu-bar-lines . 1) (tool-bar-lines . 0) (height . 34) (title) (icon-type) (auto-raise) (auto-lower) (cursor-type . box) (scroll-bar-width . 0) (scroll-bar-height . 0) (fullscreen) (display-type . color) (background-mode . dark) (cursor-color . "#F8F8F2") (environment) (fullscreen-restore) (frameset--id . "8AB3-E576-1D88-DFA8") (frameset--mini t . t) (modeline . t) (minibuffer . t) (unsplittable) (icon-name) (display . "w32") (explicit-name) (tool-bar-position . top) (visibility . t) (width . 173) (left . 1911) (top + -9)) ((min-height . 4) (min-width . 20) (min-height-ignore . 3) (min-width-ignore . 16) (min-height-safe . 1) (min-width-safe . 4) (min-pixel-height . 120) (min-pixel-width . 220) (min-pixel-height-ignore . 90) (min-pixel-width-ignore . 176) (min-pixel-height-safe . 30) (min-pixel-width-safe . 44)) hc (pixel-width . 1920) (pixel-height . 998) (total-width . 175) (total-height . 33) (normal-height . 1.0) (normal-width . 1.0) (combination-limit) (leaf (pixel-width . 968) (pixel-height . 998) (total-width . 88) (total-height . 33) (normal-height . 1.0) (normal-width . 0.5033482142857143) (buffer "TeamGroupScene.lua" (selected . t) (hscroll . 0) (fringes 8 8 nil) (margins 4) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 50034) (start . 49278))) (leaf (last . t) (pixel-width . 952) (pixel-height . 998) (total-width . 87) (total-height . 33) (normal-height . 1.0) (normal-width . 0.4966517857142857) (buffer "TeamGroupScene.lua" (selected) (hscroll . 8) (fringes 8 8 nil) (margins 4) (scroll-bars nil 0 t nil 0 t) (vscroll . 0) (dedicated) (point . 30495) (start . 30362)))))])
+(setq desktop-missing-file-warning nil)
+(setq tags-file-name nil)
+(setq tags-table-list nil)
+(setq search-ring '("troopSize" "self.hastemer" "teamfightnum" "self.teamsize" "self.teamSise" "8" "self.teamSize" "self.battlesize" "updatabattlegroup" "updatazhanshu" "updatebattlezhanshu" "updateBatt" "updategrouppos" "initBattle" "updategrouppos" "updateGroup"))
+(setq regexp-search-ring '("ontouchhero" "createbuff" "playEff" "showCheer"))
+(setq register-alist nil)
+(setq file-name-history '("d:/mokamen/client/mofamen/src/app/views/GroupScene.lua" "d:/mokamen/client/mofamen/src/app/views/FightScene.lua" "d:/mokamen/client/mofamen/src/app/views/TeamGroupScene.lua" "d:/mokamen/client/mofamen/src/app/views/HomeScene.lua" "d:/mokamen/client/mofamen/src/app/views/" "d:/mokamen/client/mofamen/src/app/views/ArenaScene.lua" "d:/mokamen/client/mofamen/src/app/" "d:/mokamen/client/mofamen/src/app/utility/" "d:/mokamen/client/mofamen/src/app/views/TeamGroupScene" "d:/mokamen/client/mofamen/src/app/utility/Utility.lua" "d:/mokamen/client/mofamen/src/app/manager/" "d:/mokamen/client/mofamen/src/app/views/GroupTeamScene.lua" "d:/mokamen/client/mofamen/src/app/views/CreateRoleTips.lua" "d:/mokamen/client/mofamen/src/.projectile" "d:/mokamen/client/mofamen/src/" "c:/Users/Administrator/AppData/Roaming/.emacs.d/" "c:/Users/Administrator/AppData/Roaming/.emacs.d/auto-save-list/" "d:/mokamen/client/mofamen/src/app/views" "d:/mokamen/client/mofamen/src/app/utility/OutLineUtil.lua" "d:/mokamen/client/mofamen/src/app/utility/OutLineUtil" "d:/mokamen/client/mofamen/src/app/views/EventTips.lua" "d:/mokamen/client/mofamen/src/app/views/MainScene.lua" "d:/mokamen/client/mofamen/src/app/utility/ShadowUtil.lua" "d:/mokamen/client/mofamen/src/app/views/ss.org" "d:/mokamen/client/mofamen/src/app/views/.#ss.org" "d:/mokamen/client/mofamen/src/app/views/biji" "d:/mokamen/client/mofamen/src/app/views/UpdateScene.lua" "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/" "d:/mokamen/client/mofamen/src/app/views/LoginScene.lua" "d:/mokamen/client/mofamen/src/app/views/LoadingScene.lua" "d:/mokamen/client/mofamen/src/app/views/.#LoginScene.lua" "d:/mokamen/client/mofamen/src/app/views/SplashScene.lua" "d:/mokamen/client/mofamen/src/packages/" "d:/mokamen/client/mofamen/src/packages/mvc/AppBase.lua" "d:/mokamen/client/mofamen/src/packages/mvc/ViewBase.lua" "d:/mokamen/client/mofamen/src/app/models/" "d:/mokamen/client/mofamen/src/app/data/SDKHelper.lua" "d:/mokamen/client/mofamen/src/app/data/" "d:/mokamen/" "d:/" "e:/bgyx/client/bgyx/src/app/views/ServiceWarFight.lua" "e:/bgyx/client/bgyx/src/app/views/ServiceWar.lua" "e:/bgyx/client/bgyx/src/app/views/ContestScene.lua" "e:/bgyx/client/bgyx/src/app/views/HomeScene.lua" "e:/bgyx/client/bgyx/src/app/views/.#ContestScene.lua" "e:/bgyx/client/bgyx/src/app/views/ContestGuess.lua" "e:/bgyx/client/bgyx/src/app/views/ContestTips.lua" "e:/bgyx/client/bgyx/src/app/views/FamilyScene.lua" "e:/bgyx/client/bgyx/src/app/views/MainScene.lua" "e:/bgyx/client/bgyx/src/app/views/ContestRank.lua" "e:/bgyx/client/bgyx/src/app/views/EventTips.lua" "e:/bgyx/client/bgyx/src/app/views/MiningScene.lua" "e:/bgyx/client/bgyx/src/app/views/" "e:/bgyx/client/bgyx/src/app/utility/" "e:/bgyx/client/bgyx/src/app/data/" "e:/bgyx/client/bgyx/src/app/da'" "e:/bgyx/client/bgyx/src/app/views/.#EventTips.lua" "e:/bgyx/client/bgyx/src/app/views/FriendScene.lua" "e:/bgyx/client/bgyx/src/app/views/EvaluateTips.lua" "e:/bgyx/client/bgyx/src/app/views/BudoScene.lua" "e:/bgyx/client/bgyx/src/app/" "e:/bgyx/client/bgyx/src/app/views/PlantTips.lua" "e:/bgyx/client/bgyx/src/app/views/ServiceWarRank.lua" "e:/bgyx/client/bgyx/src/app/views/AchieveTips.lua" "e:/bgyx/client/bgyx/src/app/views/ArenaScene.lua" "e:/bgyx/client/bgyx/src/app/views/ServiceWarResult.lua" "e:/bgyx/client/bgyx/src/app/views/ctor" "e:/bgyx/client/bgyx/src/app/manager/" "e:/bgyx/client/bgyx/src/app/views/FamilyWriteTips.lua" "e:/bgyx/client/bgyx/src/app/views/FamilyCreateTips.lua" "e:/bgyx/client/bgyx/src/app/views/HeroInfo.lua" "e:/bgyx/client/bgyx/src/app/views/FamilyListTips.lua" "e:/bgyx/client/bgyx/src/app/views/FamilyApplyTips.lua" "e:/bgyx/client/bgyx/src/app/views/BagScene.lua" "e:/bgyx/client/bgyx/src/app/views/WorldMsgLayer.lua" "e:/bgyx/client/bgyx/src/app/views/ChatTips.lua" "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/init-better-defaults.el" "e:/bgyx/client/bgyx/src/app/views/CreateRoleTips.lua" "e:/bgyx/client/bgyx/src/app/views/ShopScene.lua" "e:/bgyx/client/bgyx/src/app/views/FightScene.lua" "e:/bgyx/client/bgyx/src/app/views/LoginScene.lua" "e:/bgyx/client/bgyx/bgyx-ft/src/app/views/BagScene.lua" "e:/waw/client/wyft/src/app/views/CreateRoleLayer.lua" "e:/waw/client/wyft/src/app/views/SkillUpLayer.lua" "e:/bgyx/client/bgyx/src/app/views/UpdateScene.lua" "e:/bgyx/client/bgyx/src/app/views/GuideLayer.lua" "e:/bgyx/client/bgyx/src/app/views/MarketScene.lua" "e:/bgyx/client/bgyx/src/app/views/RecruitScene.lua" "e:/bgyx/client/bgyx/" "e:/bgyx/client/bgyx/bgyx-ft/src/app/views/MiningScene.lua" "e:/bgyx/client/bgyx/src/app/views/NoticeTips.lua" "e:/bgyx/client/bgyx/src/app/manager/UiManager.lua" "e:/bgyx/client/bgyx/MyPlan" "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/custom.el" "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/init-org.el" "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/init-ui.el" "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/init-packages.el" "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/init-keybindings.el" "e:/bgyx/client/bgyx/src/app/views/RecruitTips.lua"))
+
+;; Buffer section -- buffers listed in same order as in buffer list:
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/TeamGroupScene.lua"
+  "TeamGroupScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode hs-minor-mode)
+  50034
+  '(43585 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((mark-ring (14531 14531 14531 14531 7758 14531 14531 14531 14531 14531 14531 14531 14531 14531 14531 50034))))
+
+(desktop-create-buffer 208
+  "c:/Users/Administrator/AppData/Roaming/message-20181112-102029"
+  "*unsent mail*"
+  'message-mode
+  '(auto-fill-mode abbrev-mode company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode mml-mode)
+  5
+  '(1 nil)
+  nil
+  nil
+  '((indent-tabs-mode) (buffer-file-coding-system . utf-8-emacs-dos) (fill-column . 72))
+  '((mark-ring (117 5))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/GroupScene.lua"
+  "GroupScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  13903
+  '(11324 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos) (overwrite-mode))
+  '((mark-ring (11310 5611 5637 5566 12016 12040 33466 33480 36834 33273 33287 27992 32082 32096 8274 15230))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/LoginScene.lua"
+  "LoginScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  3946
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/FightScene.lua"
+  "FightScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  127992
+  '(127159 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (127125 127159 127184 127190 127140 127125 126677 126692 126692 127001 111422 111411 65560 115154 115140 127992))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/layer/HeroInfo.lua"
+  "HeroInfo.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  355
+  '(381 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (355))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/AdventureScene.lua"
+  "AdventureScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/HomeScene.lua"
+  "HomeScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  5377
+  '(69 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring (5374 5304 5304 5304 5254 5374 5374 5321 5272 5260 5304 5304 1128 1128 1128 1128))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/manager/UiManager.lua"
+  "UiManager.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  8038
+  '(7538 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (9229 9831 7762 10014 9893 9893 9930 7526 3286 10236 10319 10870 3253 3298 3282 8038))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/utility/CsvHelper.lua"
+  "CsvHelper.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  19782
+  '(19646 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (19634 19717 19600 19600 19570 19360 26410 26410 26283 27383 1930 1108 23937 23714 28559 28457))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/utility/OutLineUtil.lua"
+  "OutLineUtil.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  814
+  '(590 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/utility/Utility.lua"
+  "Utility.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  26298
+  '(26216 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (26216 26336 26336 26383 26292 26265 26402 26402 26427 26292 26265 26232 26169 26149 26165 26433))))
+
+(desktop-create-buffer 208
+  "c:/Users/Administrator/AppData/Roaming/.emacs.d/init.el"
+  "init.el"
+  'emacs-lisp-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  3551
+  '(3286 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (3506 3423 3409 3168 3078 3076 3078 2231 2214 865 780 147 781 287 443 3551))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/manager/SceneManager.lua"
+  "SceneManager.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  391
+  '(134 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring (388 551 543 450 539 391))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/EventTips.lua"
+  "EventTips.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  2527
+  '(1432 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring (1653 1461 1316 1316 1300 1316 1300 1225 1225 1225 1225 1225 1225 1225 1225 2527))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/ArenaScene.lua"
+  "ArenaScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  16748
+  '(17119 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (17069 17111 380 380 16886 16656 16963 16843 16733 16748))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/net/GameNetEnter.lua"
+  "GameNetEnter.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  3869
+  '(4192 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (3867 3405 3621 3438 3865 3900 4192 441 3793 3786 3735 3735 3735 514 514 3867))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/layer/GuideLayer.lua"
+  "GuideLayer.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  13424
+  '(492 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (393 393 492 11630))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/layer/Loading.lua"
+  "Loading.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  296
+  '(296 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/net/NetHelper.lua"
+  "NetHelper.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1985
+  '(647 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/manager/SpineManager.lua"
+  "SpineManager.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1698
+  '(1305 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring (1305 1305 1305 1305 1305 1305 1305 1305 1305 1305 214 214 1305 1305 1301 1305))))
+
+(desktop-create-buffer 208
+  "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/init-keybindings.el"
+  "init-keybindings.el"
+  'emacs-lisp-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  40
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*info*"
+  'Info-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode which-key-mode linum-mode projectile-mode)
+  55622
+  '(nil nil)
+  t
+  '("e:/emacs-25.3_1-x86_64/share/info/emacs" "Distrib" nil)
+  '((tab-width . 8) (buffer-file-coding-system . utf-8-unix) (case-fold-search . t))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/manager/SoundManager.lua"
+  "SoundManager.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/layer/GameSureTips.lua"
+  "GameSureTips.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/layer/CreateRoleTips.lua"
+  "CreateRoleTips.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/layer/AreasTips.lua"
+  "AreasTips.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/data/GameResType.lua"
+  "GameResType.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/data/GameHeros.lua"
+  "GameHeros.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  74
+  '(74 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/data/GameAreas.lua"
+  "GameAreas.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  211
+  '(211 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/app/views/MainScene.lua"
+  "MainScene.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  18620
+  '(18364 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-dos))
+  '((mark-ring (18233 2479 8495 1908 507 7374 2479 18156 18364 18620))))
+
+(desktop-create-buffer 208
+  "d:/mokamen/client/mofamen/src/protobuf.lua"
+  "protobuf.lua"
+  'lua-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  210
+  '(253 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . undecided-unix))
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  nil
+  "*eww*"
+  'eww-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(1 t)
+  t
+  '(:history ((:title "" :url "https://www.baidu.com/") (:title "" :url "https://duckduckgo.com/html/?q=RET" :point 46) (:title "" :url "http://www.baidu.com/" :point 1)))
+  '((buffer-file-coding-system . utf-8-unix) (truncate-lines . t) (eww-history-position . 0))
+  '((mark-ring (1 1 1 1 1 1 1 1 1 1 1 1 1 1 1 1))))
+
+(desktop-create-buffer 208
+  "c:/Users/Administrator/AppData/Roaming/.emacs.d/lisp/file-search.el"
+  "file-search.el"
+  'emacs-lisp-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1188
+  '(3373 nil)
+  nil
+  nil
+  '((buffer-file-coding-system . utf-8-dos))
+  '((mark-ring (3389 827 542 561 1415 689 827 3585 3694 3261))))
+
+(desktop-create-buffer 208
+  nil
+  "auto-save-list"
+  'dired-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  t
+  '("c:/Users/Administrator/AppData/Roaming/.emacs.d/auto-save-list/")
+  nil
+  '((mark-ring nil)))
+
+(desktop-create-buffer 208
+  "e:/android/adt-bundle-windows-x86-20131030/eclipse/readme/readme_eclipse.html"
+  "readme_eclipse.html"
+  'nxml-mode
+  '(company-mode global-auto-revert-mode hungry-delete-mode smartparens-mode which-key-mode linum-mode projectile-mode)
+  1
+  '(nil nil)
+  nil
+  nil
+  '((buffer-file-coding-system . iso-latin-1-unix))
+  '((mark-ring nil)))
+

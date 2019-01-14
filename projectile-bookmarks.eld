@@ -1,0 +1,1 @@
+("d:/mokamen/client/mofamen/src/" "~/.emacs.d/")
