@@ -15,6 +15,7 @@
 (global-set-key (kbd "s-/") 'hippie-expand)
 (global-set-key (kbd "C-x g") 'magit-status)
 (global-set-key (kbd "C-x f") 'find-grep)
+(global-set-key (kbd "<f6>") 'find-file-in-project)
 
 (add-to-list 'load-path "path/to/which-key.el")
 (require 'which-key)

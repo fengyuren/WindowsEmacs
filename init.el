@@ -57,6 +57,12 @@
     (message cmd)    
   (shell-command cmd)))
 
+(defun svn-blame()    
+  "Svn blame"    
+  (interactive)    
+  (let ((cmd (concat "TortoiseProc.exe /command:blame /path:\"" buffer-file-name "\" /closeonend:0")))    
+    (message cmd)    
+  (shell-command cmd)))
  
 ;;代码折叠
 ;;(add-hook 'c-mode-common-hook   'hs-minor-mode)
@@ -69,7 +75,6 @@
 ;;(add-hook 'lua-mode-hook         'hs-minor-mode)
 
 (global-set-key [C-tab] 'hs-toggle-hiding)
-
 
 ;;projectile项目管理工具
 ;;(add-to-list 'load-path "D:\emacs_home\emacs_plugin\projectile_custom_v1")
@@ -117,5 +122,45 @@
 ;;windmove
 (when (fboundp 'windmove-default-keybindings)
   (windmove-default-keybindings))
+
+
+
+(put 'upcase-region 'disabled nil)
+
+;;expand-region
+(require 'expand-region)
+(global-set-key (kbd "C-=")'er/expand-region)
+
+;;windmove
+(when (fboundp 'windmove-default-keybindings)
+  (windmove-default-keybindings))
+
+;;git emacs
+(require 'package)
+(add-to-list 'package-archives
+             '("melpa" . "http://melpa.org/packages/") t)
+
+(require 'package)
+(add-to-list 'package-archives
+             '("melpa-stable" . "http://stable.melpa.org/packages/") t)
+
+
+
+;; set tab as 4 spaces
+(setq indent-tabs-mode nil)
+(setq tab-width 4)
+(setq indet-line-function 'insert-tab)
+(setq c-basic-offset 4)
+(setq tab-stop-list ())
+
+;;add gun email 
+
+(add-to-list 'load-path
+              "~/.emacs.d/site-lisp/yasnippet")
+(require 'yasnippet)
+(setq yas-snippet-dirs
+      '("~/.emacs.d/snippets"                 ;; personal snippets
+        ))
+(yas-global-mode 1)
 
 (put 'upcase-region 'disabled nil)
