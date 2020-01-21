@@ -2,11 +2,14 @@
 ;; Automatically generated file!!! DO NOT EDIT!!!
 
 (setq url-cookie-storage
- '((".baidu.com"
-  [url-cookie "BAIDUID" "0B53DB1F0BCFDDD096385EE8154C4203:FG=1" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
-  [url-cookie "max-age" "2147483647" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
+ '((".google.cn"
+  [url-cookie "NID" "196=qK-VXFCZy_A4zfsaNR9uIXXueM8kZT0WyE3T_DHQ6FLPyalGUtPHBjsS5LDQEXTfLfBlGd01ehRe3Xo3XYow3rhou-TVRtUlpC9QL_ApxSRwWnHO1kJCW310AgztYq-YOaR0C_U8WjLoUOaE0sph8_bmL2u299Ibsc0liLCj_FE" "21-Jul-2020 08:22:20.00 GMT" "/" ".google.cn" nil]
+  [url-cookie "HttpOnly" nil "21-Jul-2020 08:22:20.00 GMT" "/" ".google.cn" nil])
+ (".baidu.com"
+  [url-cookie "PSTM" "1531394391" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
   [url-cookie "BIDUPSID" "0B53DB1F0BCFDDD096385EE8154C4203" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
-  [url-cookie "PSTM" "1531394391" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]))
+  [url-cookie "max-age" "2147483647" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]
+  [url-cookie "BAIDUID" "0B53DB1F0BCFDDD096385EE8154C4203:FG=1" "31 Dec 37 23:55:55 [GMT]" "/" ".baidu.com" nil]))
 )
 (setq url-cookie-secure-storage
  'nil)

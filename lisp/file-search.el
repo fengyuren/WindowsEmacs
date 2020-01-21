@@ -115,4 +115,15 @@
 (fs-search-file file 1)
 (fs-show-result-window))
 
+;; (global-set-key (kbd "<f3>") 'cscope-set-initial-directory)
+;; (global-set-key (kbd "<f4>") 'cscope-unset-initial-directory)
+;; (global-set-key (kbd "<f5>") 'cscope-find-this-symbol)
+;; (global-set-key (kbd "<f6>") 'cscope-find-global-definition)
+;; (global-set-key (kbd "<f7>") 'cscope-find-global-definition-no-prompting)
+;; (global-set-key (kbd "<f8>") 'cscope-pop-mark)
+;; (global-set-key (kbd "<f9>") 'cscope-history-forward-line)
+;; (global-set-key (kbd "<f10>") 'cscope-history-forward-file)
+;; (global-set-key (kbd "<f11'>") 'cscope-history-backward-line)
+;; (global-set-key (kbd "<f12'>") 'cscope-history-backward-file)
+
 (provide 'file-search)

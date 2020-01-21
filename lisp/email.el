@@ -1,0 +1,6 @@
+(setq user-full-name "")
+(setq user-mail-address "")
+(setq smtpmail-smtp-server "m.hotmail.com")
+(setq smtpmail-smtp-user "")
+(setq smtpmail-smtp-service 25)
+(setq smtpmail-stream-type 'starttls)

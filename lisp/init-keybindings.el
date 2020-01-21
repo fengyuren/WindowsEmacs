@@ -16,6 +16,8 @@
 (global-set-key (kbd "C-x g") 'magit-status)
 (global-set-key (kbd "C-x f") 'find-grep)
 (global-set-key (kbd "<f6>") 'find-file-in-project)
+(global-set-key (kbd "C-c C-z") 'projectile-find-file)
+(global-set-key (kbd "C-x C-t") 'insert-translated-name-insert)
 
 (add-to-list 'load-path "path/to/which-key.el")
 (require 'which-key)

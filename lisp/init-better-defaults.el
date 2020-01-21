@@ -1,6 +1,3 @@
-
-
-
 (setq ring-bell-function 'ignore)
 
 ;;显示行号
