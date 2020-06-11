@@ -1,1 +1,1 @@
-("d:/mokamen/client/mofamen/StudyNotes/" "d:/mokamen/client/mofamen/src/" "~/.emacs.d/" "d:/mokamen/client/" "e:/bgyx/client/bgyx/bgyx-ft/src/")
+("d:/mokamen/client/mofamen/src/" "~/.emacs.d/" "d:/mokamen/client/mofamen/StudyNotes/" "d:/mokamen/client/mofamen/MofamenNotes/" "d:/mokamen/client/" "e:/bgyx/client/bgyx/bgyx-ft/src/")

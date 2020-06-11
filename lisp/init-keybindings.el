@@ -19,6 +19,7 @@
 (global-set-key (kbd "C-c C-z") 'projectile-find-file)
 (global-set-key (kbd "C-x C-t") 'insert-translated-name-insert)
 
+
 (add-to-list 'load-path "path/to/which-key.el")
 (require 'which-key)
 (which-key-mode)

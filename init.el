@@ -2,6 +2,7 @@
 (package-initialize)
 (add-to-list 'load-path "~/.emacs.d/lisp/")
 
+
 (defun open-my-init-file()
   (interactive)
   (find-file "~/.emacs.d/init.el"))
@@ -34,5 +35,12 @@
 
 ;;add learn English
 ;;(require 'guess-word-mode)
+
+;;trivial-mode
+
+(setq default-tab-width 4)
+(setq indent-tabs-mode nil)
+
+(add-hook 'pdf-view-mode-hook 'pdf-view-restore-mode)
 
 (put 'upcase-region 'disabled nil)
